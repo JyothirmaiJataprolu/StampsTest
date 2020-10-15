@@ -32,6 +32,9 @@ On my local machine, I have installed
 	-- C:\Testing\StampsTest\node_modules\.bin\wdio wdio.conf.js
 
 Main files where coding is done are 
+
 /features/stamps.feature
+
 /features/step-definitions/stampsteps.js
+
 wdio.conf.js
