@@ -12,12 +12,21 @@ On my local machine, I have installed
 7. Extracted to C:\Testing\StampsTest\
 8. For webdriver setup and installation:
 	-- npm init
+	
 	-- npm install webdriverio --save-dev
+	
 	-- npm install cucumber --save-dev
+	
 	-- npm install @wdio/cli
+	
 	-- npm install chai --save-dev
+	
 	-- npm install chai-webdriverio --save-dev
+	
 	-- npm install local-runner --save-dev
+	
 	-- C:\Testing\StampsTest\node_modules\.bin\wdio config -- which created the wdio.conf.js
+	
 9. To Test
+
 	-- C:\Testing\StampsTest\node_modules\.bin\wdio wdio.conf.js
